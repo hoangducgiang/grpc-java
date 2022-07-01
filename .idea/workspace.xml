@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7aef8be-e295-4bf6-b429-3197be124b83" name="Changes" comment="adds some data">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/widogame/minegamedataserver/grpc/AlloServiceGrpc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/widogame/minegamedataserver/grpc/ExchangeTokenGrpc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/widogame/minegamedataserver/grpc/FrontendServiceGrpc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/widogame/minegamedataserver/grpc/GameServiceGrpc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/widogame/minegamedataserver/grpc/MatchMakingServiceGrpc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/widogame/minegamedataserver/grpc/PvEServiceGrpc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/widogame/minegamedataserver/grpc/SeasonServiceGrpc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/widogame/minegamedataserver/grpc/UserServiceGrpc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +46,8 @@
       <workItem from="1656641445859" duration="1395000" />
       <workItem from="1656642867591" duration="645000" />
       <workItem from="1656645297168" duration="310000" />
+      <workItem from="1656645897519" duration="1445000" />
+      <workItem from="1656657398326" duration="628000" />
     </task>
     <task id="LOCAL-00001" summary="adds some data">
       <created>1656642508419</created>
